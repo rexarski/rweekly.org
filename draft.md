@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Harnessing Azure OpenAI and R for Web Content Summarisation: A Practical Guide with rvest and tidyverse](https://martinctc.github.io/blog/harness-azure-openai-and-r-summarisation-rvest/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
