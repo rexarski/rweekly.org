@@ -21,7 +21,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### R in the Real World
-
+[Infodemiology & Health Insights: Analyzing Trends in Back Pain using R & Google Trends data](https://boiled-data.github.io/Trends.html)
 
 
 ### R in Organizations
