@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Setting values in R6 classes, and testing with shiny::MockShinySession](https://rtask.thinkr.fr/setting-values-in-r6-classes-and-testing-shinymockshinysession/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
