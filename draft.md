@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-+ [What region is Pittsburgh in? Spatially constrained clustering](https://ctompkins.netlify.app/posts/spatial-clustering-pittsburgh/)
++ [What region is Pittsburgh in?](https://ctompkins.netlify.app/posts/spatial-clustering-pittsburgh/): Unsupervised learning with spatially constrained clustering.
 
 
 ### R in Organizations
