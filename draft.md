@@ -351,7 +351,11 @@ Flow Cytometry
 
 ### R in the Real World
 
++ [Infodemiology & Health Insights: Analyzing Trends in Back Pain using R & Google Trends data](https://boiled-data.github.io/Trends.html)
+
+
 + [What region is Pittsburgh in? Unsupervised learning with spatially constrained clustering.](https://ctompkins.netlify.app/posts/spatial-clustering-pittsburgh/)
+
 
 
 ### R in Organizations
