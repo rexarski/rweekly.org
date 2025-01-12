@@ -347,7 +347,7 @@ Flow Cytometry
 
 ### Insights
 
-
++ [Analysis of #Rstats Bluesky posts with local and frontier LLMs using ellmer and mall](https://blog.stephenturner.us/p/bluesky-analysis-claude-llama-tidyverse)
 
 ### R in the Real World
 
