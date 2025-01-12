@@ -409,7 +409,7 @@ Flow Cytometry
 
 ### R Internationally
 
-
+- [Genocidio en Palestina](https://bastianolea.rbind.io/apps/palestina/).
 
 ### Tutorials
 
