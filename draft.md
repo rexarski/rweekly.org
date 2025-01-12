@@ -406,7 +406,11 @@ Flow Cytometry
 
 ### Tutorials
 
+
++ [Harnessing Azure OpenAI and R for Web Content Summarisation: A Practical Guide with rvest and tidyverse](https://martinctc.github.io/blog/harness-azure-openai-and-r-summarisation-rvest/)
+
 + [Setting values in R6 classes, and testing with shiny::MockShinySession](https://rtask.thinkr.fr/setting-values-in-r6-classes-and-testing-shinymockshinysession/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
