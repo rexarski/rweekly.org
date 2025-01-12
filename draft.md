@@ -351,6 +351,7 @@ Flow Cytometry
 
 ### R in the Real World
 
++ [What region is Pittsburgh in? Unsupervised learning with spatially constrained clustering.](https://ctompkins.netlify.app/posts/spatial-clustering-pittsburgh/)
 
 
 ### R in Organizations
