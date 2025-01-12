@@ -392,7 +392,12 @@ Flow Cytometry
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-[{makepipe} 0.2.2](https://cran.r-project.org/package=makepipe): Pipeline Tools Inspired by 'GNU Make' - [NEWS](https://kinto-b.github.io/makepipe/news/index.html)
+- [{makepipe} 0.2.2](https://cran.r-project.org/package=makepipe): Pipeline Tools Inspired by 'GNU Make' - [NEWS](https://kinto-b.github.io/makepipe/news/index.html)
+
+- [{mapmetadata} 3.0.0](https://github.com/aim-rsf/mapmetadata): Mapping from variables to concepts
+
+<img width="238" alt="Screenshot 2025-01-12 at 13 04 19" src="https://github.com/user-attachments/assets/aba6e3f1-d6bc-40b6-9ee4-1812a651d2e8" />
+
 
 ### Videos and Podcasts
 
