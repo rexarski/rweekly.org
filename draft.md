@@ -382,7 +382,7 @@ Flow Cytometry
 
 **GitHub or Bitbucket**
 
-
+[{th2analytics} 0.0.1](https://github.com/thaink2/th2analytics) thaink² analytics SDK forecasting as a service  
 
 ### Updated Packages
 
