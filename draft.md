@@ -388,6 +388,8 @@ Flow Cytometry
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+[{makepipe} 0.2.2](https://cran.r-project.org/package=makepipe): Pipeline Tools Inspired by 'GNU Make' - [NEWS](https://kinto-b.github.io/makepipe/news/index.html)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
