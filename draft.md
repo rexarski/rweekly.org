@@ -173,7 +173,7 @@ Packages - [diffify](https://diffify.com/R/plotthis)
 
 ### R Internationally
 
-- [Genocidio en Palestina 🍉](https://bastianolea.rbind.io/apps/palestina/).
+- [Genocidio en Palestina 🍉](https://bastianolea.rbind.io/apps/palestina/)
 
 ### Tutorials
 
