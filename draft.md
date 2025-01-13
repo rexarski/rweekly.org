@@ -241,11 +241,13 @@ Events in 3 Months:
 
 ### Quotes of the Week
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Please, if you have an idea for a package, just write it and publish it on CRAN. The availability of high quality packages are one of <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> greatest strengths, just package stuff please <a href="https://t.co/dY3JhKdDUr">pic.twitter.com/dY3JhKdDUr</a></p>&mdash; Bruno Rodrigues (@brodriguesco@fosstodon.org) (@brodriguesco) <a href="https://twitter.com/brodriguesco/status/1877617558708162602?ref_src=twsrc%5Etfw">January 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/z4pUZXzs8N">pic.twitter.com/z4pUZXzs8N</a></p>&mdash; Mindful Maven (@mindfulmaven_) <a href="https://twitter.com/mindfulmaven_/status/1878483422915518840?ref_src=twsrc%5Etfw">January 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="qme" dir="ltr"><a href="https://twitter.com/hashtag/NelsonMandela?src=hash&amp;ref_src=twsrc%5Etfw">#NelsonMandela</a> <a href="https://t.co/7vzaaYOoke">pic.twitter.com/7vzaaYOoke</a></p>&mdash; يوسف أحمد الحسن (@yousefalhasan) <a href="https://twitter.com/yousefalhasan/status/1108761034905608192?ref_src=twsrc%5Etfw">March 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">12 years. RIP my darling boy. <a href="https://t.co/RFLpiwPqLP">pic.twitter.com/RFLpiwPqLP</a></p>&mdash; Susan Swartz (@beadmomsw) <a href="https://twitter.com/beadmomsw/status/1878125819614159065?ref_src=twsrc%5Etfw">January 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Academic Reality <a href="https://t.co/CtJH7IGEO3">pic.twitter.com/CtJH7IGEO3</a></p>&mdash; Happy Researchers (@hapyresearchers) <a href="https://twitter.com/hapyresearchers/status/1804551443292057760?ref_src=twsrc%5Etfw">June 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Please, if you have an idea for a package, just write it and publish it on CRAN. The availability of high quality packages are one of <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> greatest strengths, just package stuff please <a href="https://t.co/dY3JhKdDUr">pic.twitter.com/dY3JhKdDUr</a></p>&mdash; Bruno Rodrigues (@brodriguesco@fosstodon.org) (@brodriguesco) <a href="https://twitter.com/brodriguesco/status/1877617558708162602?ref_src=twsrc%5Etfw">January 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
