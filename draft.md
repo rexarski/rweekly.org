@@ -1,13 +1,16 @@
 ---
 layout: draft
-title: R Weekly 2023-W43
+title: R Weekly 2025-W00
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
+
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+
+
 
 ### Highlight
 
@@ -35,7 +38,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### New Packages
 
-<p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
+<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
+<p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
 
 **CRAN**
@@ -54,12 +58,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-
-
 ### Videos and Podcasts
 
-+ [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-
++ [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
 
 ### Gist & Cookbook
@@ -76,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-+ [Using my own R functions in webR in an Express JS API, and thoughts on building web apps with Node & webR](https://colinfay.me/using-own-functions-in-webr-node-js/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -84,14 +85,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+### Call for Participation
 
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ [LatinR 2023 - Latin American Conference on the Use of R in R&D: 18th October](https://www.eventbrite.cl/e/latinr-2023-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-637517701607)
-
-+ [Network Analysis with R workshop: 26th October](https://r-posts.com/network-analysis-with-r-workshop/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -105,13 +103,11 @@ Events in 3 Months:
 ### Datasets
 
 
+### Connect
 
-### Jobs
-
-<i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
+<i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
 ### rtistry
-
 
 
 ### Quotes of the Week
