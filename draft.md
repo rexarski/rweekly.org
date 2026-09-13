@@ -171,7 +171,6 @@ Events in 3 Months:
 
 + [Seats Are Open: The Quarto + Typst Workshop](https://3mw.albert-rapp.de/p/seats-are-open-the-quarto-typst-workshop)
 
-+ [The Amsterdam Complexity School on Climate Change](https://fabiandablander.com/ACSCC.html)
 + [R Consortium Now Accepting Submissions for Technical Grants](https://r-consortium.org/posts/r-consortium-now-accepting-submissions-for-technical-grants/)
 + [Visualising High-dimensional Data with R workshop](https://r-posts.com/visualising-high-dimensional-data-with-r-workshop/)
 
