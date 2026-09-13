@@ -9,7 +9,7 @@ library(lubridate)
 source("scripts/get_rss.R")
 f <- read.csv("rss_feeds.csv")
 f <- f[f$ENABLE == 1, , drop = FALSE]
-x <- get_rss_posts(f$URL, since_days_ago = 6)
+x <- get_rss_posts(f$URL, since_days_ago = 16)
 
 cat("# RSS POSTS: ##\n\n", file = OUTPUT_FILE) # start of overwriting
 
@@ -169,4 +169,9 @@ cat("\n\n", file = OUTPUT_FILE, append = TRUE)
 
 collected <- readLines(file(OUTPUT_FILE))
 
-cat(unique(collected), file = OUTPUT_FILE, sep = "\n") # overwrite with de-dup
+cat(
+  collected[collected == "" | !duplicated(collected)],
+  # unique(collected)
+  file = OUTPUT_FILE,
+  sep = "\n"
+) # overwrite with de-dup skipping newlines
